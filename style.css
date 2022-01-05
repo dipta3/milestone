@@ -1,0 +1,176 @@
+body {
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Poppins',
+        sans-serif;
+    font-family: 'Ubuntu',
+        sans-serif;
+    margin: 0;
+}
+
+section {
+
+    margin-bottom: 120px;
+}
+
+.details {
+    margin-top: 115px;
+}
+
+.title {
+    border-left: 5px solid;
+    border-color: rebeccapurple;
+    border-image-slice: 1;
+    padding-left: 10px;
+}
+
+.title h1 {
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+
+.title h2 {
+    font-size: 45px;
+    margin: 0;
+    color: violet;
+}
+
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    background-color: rebeccapurple;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.details {
+    width: 60%;
+}
+
+.photo {
+    width: 40%;
+}
+
+.photo img {
+    width: 100%;
+}
+
+.container1 {
+    width: 80%;
+    margin: 0 auto;
+
+
+}
+
+.image {
+    width: 35%;
+}
+
+.image img {
+    width: 80%;
+}
+
+.mission {
+    width: 100%;
+}
+
+.box1 {
+    background-color: rgb(245, 222, 245);
+    width: 25%;
+    padding: 27px 24px 27px 34px;
+    border-radius: 20px;
+    margin-right: 55px;
+}
+
+.all-box {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.coding-img img {
+    width: 83%;
+}
+
+.coding-text {
+    width: 165%;
+    margin-top: 75px;
+}
+
+.coding-text h2 {
+    font-size: 30px;
+    font-weight: 900;
+
+}
+
+.coding-text p {
+    font-size: 18px;
+}
+
+.background-image1 {
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 100px;
+}
+
+.coding-img2 img {
+    width: 83%;
+
+}
+
+.bng-color {
+    background-color: rgb(247, 247, 247);
+
+}
+
+
+
+.me {
+    width: 95%;
+}
+
+.me p {
+    font-size: 20px;
+
+}
+
+.input {
+    width: 50%;
+}
+
+.input h2 {
+    margin: 0;
+}
+
+.input input {
+    padding: 15px 25px;
+    border-radius: 10px;
+}
+
+
+
+footer {
+    background-color: black;
+    margin: 0;
+    padding: 40px;
+
+}
+
+footer h1 {
+    font-family: cursive;
+    text-align: center;
+    color: white;
+}
+
+footer p {
+    text-align: center;
+    color: aliceblue;
+}
