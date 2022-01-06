@@ -82,7 +82,7 @@ section {
 }
 
 .box1 {
-    background-color: rgb(245, 222, 245);
+    background-color: rgb(223, 223, 223);
     width: 25%;
     padding: 27px 24px 27px 34px;
     border-radius: 20px;
@@ -90,7 +90,7 @@ section {
 }
 
 .box2 {
-    background-color: rgb(214, 181, 245);
+    background-color: rgb(233, 217, 248);
     width: 25%;
     padding: 27px 24px 27px 34px;
     border-radius: 20px;
@@ -190,4 +190,6 @@ footer h1 {
 footer p {
     text-align: center;
     color: aliceblue;
+    font-size: 10px;
+    font-weight: 100;
 }
