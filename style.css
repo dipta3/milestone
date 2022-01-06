@@ -89,6 +89,23 @@ section {
     margin-right: 55px;
 }
 
+.box2 {
+    background-color: rgb(214, 181, 245);
+    width: 25%;
+    padding: 27px 24px 27px 34px;
+    border-radius: 20px;
+    margin-right: 55px;
+
+}
+
+.box3 {
+    background-color: rgb(255, 219, 246);
+    width: 25%;
+    padding: 27px 24px 27px 34px;
+    border-radius: 20px;
+    margin-right: 55px;
+}
+
 .all-box {
     display: flex;
     justify-content: space-between;
